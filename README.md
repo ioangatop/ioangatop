@@ -1,6 +1,6 @@
 ### Hi there, I'm Giannis!
 
-I come from Greece and work on Machine Learning / Deep Learning 👾
+I come from Greece and work on Machine Learning / Deep Learning 😎
 
 <!--
 **ioangatop/ioangatop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
