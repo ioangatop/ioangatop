@@ -2,8 +2,9 @@
 
 I come from Greece and work on Machine Learning / Deep Learning 😎
 
-- 🎓 Google Scholar: https://scholar.google.com/citations?user=Tb0yDfkAAAAJ&hl=en
-- 💼 LinkedIn: https://www.linkedin.com/in/ioannis-gatopoulos-296625126/
+- 🐦 [Twitter](https://twitter.com/JohnGatop)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ioannis-gatopoulos-296625126/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=Tb0yDfkAAAAJ&hl=en)
 
 
 <!--
