@@ -1,6 +1,6 @@
 ### Hi there, I'm Giannis!
 
-I come from **Greece** and work on **Machine Learning**, **Deep Learning**, **Computer Vision** and **Deep Generative Models**!
+I come from **Greece** and work on **Machine Learning**, **Deep Learning**, **Computer Vision** and **Deep Generative** Models!
 
 - 📫 [Email](johngatop@gmail.com)
 - 🐦 [Twitter](https://twitter.com/JohnGatop)
