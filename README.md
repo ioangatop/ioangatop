@@ -2,7 +2,7 @@
 
 I am from **Greece** and I’m currently working on **Machine Learning**, **Deep Learning**, **Computer Vision** and **Deep Generative** models!
 
-- 📫  &nbsp; [Email](johngatop@gmail.com)
+- 📫  &nbsp; <johngatop@gmail.com>
 - 🐦  &nbsp; [Twitter](https://twitter.com/JohnGatop)
 - 💼  &nbsp; [LinkedIn](https://www.linkedin.com/in/ioannis-gatopoulos-296625126/)
 - 🎓  &nbsp; [Google Scholar](https://scholar.google.com/citations?user=Tb0yDfkAAAAJ&hl=en)
