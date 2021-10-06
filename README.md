@@ -1,6 +1,6 @@
 ### Hi there, I'm Yiannis!
 
-I am from **Greece** and I’m currently working on **Machine Learning**, **Deep Learning**, **Computer Vision** and **Deep Generative** models!
+I am Software Engineer focusing on **Deep Learning** and **Computer Vision**!
 
 - 📫  &nbsp; <johngatop@gmail.com>
 - 🐦  &nbsp; [Twitter](https://twitter.com/JohnGatop)
