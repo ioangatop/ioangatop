@@ -1,4 +1,4 @@
-### Hi there, Yiannis here!
+### Hello there, Yiannis here!
 ![Email: ioannis](https://img.shields.io/badge/-johngatop@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=johngatop@gmail.com)
 ![Linkedin: ioannis](https://img.shields.io/badge/-ioannis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ioannis-gatopoulos-296625126/)
 ![Scholar: ioannis](https://img.shields.io/badge/-🎓Scholar-grey?style=flat-square&link=https://scholar.google.com/citations?user=Tb0yDfkAAAAJ&hl=en)
