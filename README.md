@@ -5,7 +5,7 @@
 ![Scholar: ioannis](https://img.shields.io/badge/-🎓Scholar-grey?style=flat-square&link=https://scholar.google.com/citations?user=Tb0yDfkAAAAJ&hl=en)
 -->
 
-I am a Software Engineer, with a focus on **Machine Learning**, **Deep Learning** and **Computer Vision**.
+I am a Software Engineer, with a focus on **Machine Learning**, **Deep Learning**, **Computer Vision** and **Generative AI**.
 
 
 <!--
